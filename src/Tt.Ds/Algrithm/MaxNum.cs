@@ -37,7 +37,7 @@ namespace Tt.Ds.Algrithm
         }
          
         /// <summary>
-        /// ggg包含index值的最大连续值依赖于index-1的最大连续值
+        /// ggg1包含index值的最大连续值依赖于index-1的最大连续值
         /// </summary>
         /// <param name="index"></param>
         /// <returns></returns>
